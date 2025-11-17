@@ -1909,6 +1909,14 @@ rabbitmqctl set_permissions -p staging staging_user ".*" ".*" ".*"
 
 ## 🆚 Comparisons
 
+> ⚡ **[Complete Apache Kafka Guide →](KAFKA.md)**
+>
+> Explore our comprehensive Kafka documentation covering Kafka 4.0 features, deployment, architecture, performance tuning, and production best practices!
+>
+> 🤖 **[Kafka AI Agents Guide →](KAFKA-AI-AGENTS.md)**
+>
+> Deep dive into building production AI agent systems with Kafka, including MCP/A2A protocols, Flink orchestration, vector databases, and real-world case studies!
+
 <details open>
 <summary><b>RabbitMQ vs Kafka vs Redis</b></summary>
 
