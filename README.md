@@ -478,6 +478,10 @@ rabbitmqctl set_policy max-length "limited\\..*" '{"max-length":10000}' --apply-
 
 ### _Leveraging RabbitMQ for Scalable AI/ML Workloads_
 
+> 📖 **[Complete AI Agents Guide →](AI-AGENTS.md)**
+>
+> Explore our comprehensive 900+ line guide covering LangChain, AutoGen, CrewAI integration, multi-agent systems, agent swarms, production patterns, and real-world case studies!
+
 </div>
 
 <details open>
