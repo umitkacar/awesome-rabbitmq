@@ -1671,6 +1671,6 @@ Redis has become the **leading infrastructure** for production AI agent systems 
 
 **⭐ Star this repo if you found it helpful!**
 
-[🏠 Back to Main README](README.md) | [📖 Redis Guide](REDIS.md)
+[🏠 Back to Main](../README.md) | [📖 Redis Guide](README.md)
 
 </div>

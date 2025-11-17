@@ -1025,8 +1025,8 @@ Netflix • LinkedIn • Uber • Airbnb • Spotify • Twitter
 
 ---
 
-**Part of the Awesome Message Brokers Collection**
+**Part of the [Awesome Message Brokers](../README.md) Collection**
 
-[← Back to Main README](README.md) | [AI Agents with Kafka →](KAFKA-AI-AGENTS.md)
+[← Back to Main](../README.md) | [AI Agents with Kafka →](AI-AGENTS.md)
 
 </div>

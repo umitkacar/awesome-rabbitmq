@@ -1792,6 +1792,6 @@ Redis 8 brings unprecedented performance improvements and AI-ready features like
 
 **⭐ Star this repo if you found it helpful!**
 
-[🏠 Back to Main README](README.md) | [🤖 AI Agents Guide →](REDIS-AI-AGENTS.md)
+[🏠 Back to Main](../README.md) | [🤖 AI Agents Guide →](AI-AGENTS.md)
 
 </div>
