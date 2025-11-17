@@ -1683,6 +1683,6 @@ class TokenBucketRateLimiter:
 
 ---
 
-**Part of the [Awesome RabbitMQ](README.md) collection**
+**Part of the [Awesome Message Brokers](../README.md) collection | [RabbitMQ Guide](README.md)**
 
 </div>

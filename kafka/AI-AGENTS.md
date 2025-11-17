@@ -766,6 +766,6 @@ def process_with_dlq(message):
 
 ---
 
-[← Back to Kafka Guide](KAFKA.md) | [Main README](README.md)
+[← Back to Kafka Guide](README.md) | [Main](../README.md)
 
 </div>
