@@ -1917,6 +1917,16 @@ rabbitmqctl set_permissions -p staging staging_user ".*" ".*" ".*"
 >
 > Deep dive into building production AI agent systems with Kafka, including MCP/A2A protocols, Flink orchestration, vector databases, and real-world case studies!
 
+---
+
+> ⚡ **[Complete Redis Guide →](REDIS.md)**
+>
+> Discover our comprehensive Redis 8 documentation covering ultra-fast in-memory storage, LangCache semantic caching, vector search, and production deployment!
+>
+> 🤖 **[Redis AI Agents Guide →](REDIS-AI-AGENTS.md)**
+>
+> Master building production-ready AI agent systems with Redis, including agent memory management, LangChain/LangGraph integration, RedisVL vector database, and 70-90% cost savings with semantic caching!
+
 <details open>
 <summary><b>RabbitMQ vs Kafka vs Redis</b></summary>
 
