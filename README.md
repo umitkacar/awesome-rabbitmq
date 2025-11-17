@@ -7,7 +7,7 @@
 ### _The most comprehensive, curated list of RabbitMQ resources, tools, and best practices_
 
 [![RabbitMQ Version](https://img.shields.io/badge/RabbitMQ-4.2.0-orange?style=for-the-badge&logo=rabbitmq)](https://www.rabbitmq.com/)
-[![License](https://img.shields.io/badge/License-CC0_1.0-green?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 [![Last Updated](https://img.shields.io/badge/Updated-2025-blue?style=for-the-badge)](https://github.com)
 
